@@ -1,0 +1,10 @@
+{
+  "name": "AI Culture Explorer",
+  "description": "An AI-powered travel planning and cultural exploration platform with smart itineraries, hidden gems, and storytelling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
